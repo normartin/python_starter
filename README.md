@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/normartin/python_starter.svg?style=svg)](https://circleci.com/gh/normartin/python_starter)
+
 Getting started
 ===============
 
