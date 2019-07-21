@@ -5,7 +5,7 @@ from starter_app.main import say_hello
 
 
 class TestSayHello(TestCase):
-    def test_say_hello_does_not_throw(self):
+    def test_say_hello_can_be_called(self):
         say_hello()
 
     @patch('builtins.print')
