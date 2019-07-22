@@ -1,7 +1,7 @@
 from unittest import TestCase
 from unittest.mock import patch
 
-from starter_app.main import say_hello
+from starter_app.say_hello import say_hello
 
 
 class TestSayHello(TestCase):
