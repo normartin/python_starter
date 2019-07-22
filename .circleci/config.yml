@@ -42,4 +42,4 @@ jobs:
           name: run app
           command: |
             . venv/bin/activate
-            python -m starter_app.main
+            python -m starter_app

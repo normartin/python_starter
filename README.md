@@ -21,4 +21,4 @@ Getting started
 
 5. run the app
 
-`python -m starter_app.main`
+`python -m starter_app`
